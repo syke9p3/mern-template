@@ -6,49 +6,51 @@ MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt,
 
 ## My Tech Stack
 
-- Ideas: ChatGPT
-- Prototype: Figma
-- Browser: Google Chrome
-- Code Editor: Visual Studio Code
-- Version Control: GitHub
-- Communication: Discord
-- Task Tracker: ---------
-- Documentation: ------------
+- **Ideas:** ChatGPT
+- **Prototype:** Figma
+- **Browser:** Google Chrome
+- **Code Editor:** Visual Studio Code
+- **Version Control:** GitHub
+- **Communication:** Discord
+- **Task Tracker:** ---------
+- **Documentation:** ------------
 
-- Package Manager: npm
-- Framework: ViteJS
-- Frontend: React + Tailwind, optional UI library
-- Database: MongoDB/MySQL
-- API/Server: Node-Express
-- Authentication: JWT (native email), OAuth (for Google Sign in with Firebase)
+- **Package Manager:** npm
+- **Framework:** ViteJS
+- **Frontend:** React + Tailwind, optional UI library
+- **Database:** MongoDB/MySQL
+- **API/Server:** Node-Express
+- **Authentication:** JWT (native email), OAuth (for Google Sign in with Firebase)
 
-- API Testing: Insomnia
-- Testing: ------------
-- Deployment: Heroku
+- **API Testing:** Insomnia
+- **Testing:** ------------
+- **Deployment:** Heroku
 
 ## Packages to install (npm, must have NodeJS): 
 
-- tailwindcss: css styling framework
-- react-icons: access to icon packs
-- react-router-dom: setup routing
-- redux: state management
-- redux-persist: store user to localstorage
+- *tailwindcss:* css styling framework
+- *react-icons:* access to icon packs
+- *react-router-dom:* setup routing
+- *redux:* state management
+- *redux-persist:* store user to localstorage
 
 
-- nodemon: auto restart server
-- dotenv: enable environment variables for secret keys
-- express: write server routes
-- mongoose: mongodb functions
-- bcryptjs: password hashing
-- validator: data validation and sanitization
-- jwt: native email auth
-- cors:
-- helmet:
-- cookie-parser: 
+- *nodemon:* auto restart server
+- *dotenv:* enable environment variables for secret keys
+- *express:* write server routes
+- *mongoose:* mongodb functions
+- *bcryptjs:* password hashing
+- *validator:* data validation and sanitization
+- *jwt:* native email auth
+- *cors:*
+- *helmet:*
+- *cookie-parser:* 
 
 
 
 ## Folder structure
+
+```
 
 -client
 --src
@@ -63,6 +65,7 @@ MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt,
 --routes
 --utils
 
+```
 
 ## VSCode Extensions:
 1. Auto Rename Tag
@@ -73,7 +76,7 @@ MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt,
 
 
 ## Learning resources:
-- FreeCodeCamp - several courses
+- FreeCodeCamp - several courses for a wide range of technology
 - Scrimba - free beginner to advance JS course
 
 
